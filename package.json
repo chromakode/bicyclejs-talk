@@ -1,0 +1,49 @@
+{
+  "name": "bicyclejs-talk",
+  "description": "A talk about bicycles and Web Bluetooth with cycle.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "Max Goodman",
+    "email": "c@chromakode.com"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --content-base public/ --hot --hot-only --inline"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "@cycle/dom": "^12.2.1",
+    "@cycle/history": "^4.0.0",
+    "@cycle/isolate": "^1.4.0",
+    "@cycle/xstream-run": "^3.0.3",
+    "bicycle.js": "^0.0.1",
+    "clamp": "^1.0.1",
+    "core-js": "^2.4.1",
+    "dedent-js": "^1.0.1",
+    "history": "^3.0.0",
+    "moment": "^2.14.1",
+    "object-inspect": "^1.2.1",
+    "prismjs": "^1.5.1",
+    "reset.css": "^2.0.2",
+    "snabbdom-jsx": "^0.3.0",
+    "snabbdom": "chromakode/snabbdom#fix-attribute-removal",
+    "xstream": "^5.3.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "webpack": "^2.1.0-beta.20",
+    "webpack-dev-server": "^2.1.0-beta.0",
+    "autoprefixer-loader": "^3.2.0",
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.9.0",
+    "json-loader": "^0.5.4",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7"
+  }
+}

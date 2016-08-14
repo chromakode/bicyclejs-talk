@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gatt-services.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="886.2451"
+     inkscape:cy="613.75754"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,27.637839)">
+    <g
+       id="g5527"
+       transform="translate(436.2702,62.033888)">
+      <g
+         style="stroke:none"
+         transform="matrix(1.0813359,0,0,1.0813359,-886.51602,-38.982555)"
+         id="g5157">
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98910302px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect4242-5"
+           width="77.48085"
+           height="202.88516"
+           x="901.54523"
+           y="64.419586"
+           rx="0"
+           ry="0" />
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98910302px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect4242"
+           width="108.9538"
+           height="136.9368"
+           x="885.80884"
+           y="97.393768"
+           rx="11.493751"
+           ry="11.493751" />
+        <path
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 928.28553,143.06425 c -7.57996,0 -13.72465,6.86975 -13.72465,15.34402 0,8.47426 8.6526,15.4603 13.72465,19.85303 l 12.00715,10.39879 11.99318,-10.39879 c 5.06896,-4.39502 13.72474,-11.37877 13.72474,-19.85303 0,-8.47427 -6.14469,-15.34402 -13.72474,-15.34402 -4.99279,0.002 -9.59113,3.03426 -12.00716,7.91914 -2.41352,-4.87999 -7.00531,-7.91193 -11.99317,-7.91914 z"
+           id="path5162"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="csscssccc" />
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5227"
+         y="188.96529"
+         x="261.55722"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.36088562px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.85743618px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           y="188.96529"
+           x="261.55722"
+           id="tspan5229"
+           sodipodi:role="line">GATT Server</tspan></text>
+      <g
+         id="g5349-2-7"
+         transform="matrix(0.8574362,0,0,0.8574362,29.222928,447.02002)">
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffa78b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98910302px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect5345-0-3"
+           width="640.17603"
+           height="210.25443"
+           x="271.52899"
+           y="283.02994" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68.08643341px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="311.37183"
+           y="422.44592"
+           id="text5227-0-5-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-0-2"
+             x="311.37183"
+             y="422.44592">battery_service</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.07159042px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="311.85516"
+           y="349.70065"
+           id="text5227-0-2-4-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-7-1-2"
+             x="311.85516"
+             y="349.70065">service</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25.56268883px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="313.1243"
+           y="466.71298"
+           id="text5227-0-2-4-1-5"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-7-1-2-3"
+             x="313.1243"
+             y="466.71298">0000180f-0000-1000-8000-00805f9b34fb</tspan></text>
+      </g>
+      <g
+         id="g5349-2-7-9"
+         transform="matrix(0.8574362,0,0,0.8574362,29.222928,11.442243)">
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffa78b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98910302px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect5345-0-3-3"
+           width="711.09814"
+           height="210.25443"
+           x="271.52899"
+           y="283.02994" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68.08643341px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="311.37183"
+           y="422.44592"
+           id="text5227-0-5-6-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-0-2-8"
+             x="311.37183"
+             y="422.44592">device_information</tspan></text>
+        <text
+           xml:space="preserve"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.07159042px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           x="311.85516"
+           y="349.70065"
+           id="text5227-0-2-4-1-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-7-1-2-6"
+             x="311.85516"
+             y="349.70065">service</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25.56268883px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="313.1243"
+           y="466.71298"
+           id="text5227-0-2-4-1-5-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-7-1-2-3-7"
+             x="313.1243"
+             y="466.71298">0000180a-0000-1000-8000-00805f9b34fb</tspan></text>
+      </g>
+      <g
+         id="g5349-2-7-9-2"
+         transform="matrix(0.8574362,0,0,0.8574362,29.222928,229.23114)">
+        <rect
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffa78b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98910302px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect5345-0-3-3-4"
+           width="640.17603"
+           height="210.25443"
+           x="271.52899"
+           y="283.02994" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68.08643341px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="311.37183"
+           y="422.44592"
+           id="text5227-0-5-6-6-1"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-0-2-8-0"
+             x="311.37183"
+             y="422.44592">heart_rate</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.07159042px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="311.85516"
+           y="349.70065"
+           id="text5227-0-2-4-1-4-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-7-1-2-6-6"
+             x="311.85516"
+             y="349.70065">service</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25.56268883px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="313.1243"
+           y="466.71298"
+           id="text5227-0-2-4-1-5-6-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan5229-7-7-1-2-3-7-4"
+             x="313.1243"
+             y="466.71298">0000180d-0000-1000-8000-00805f9b34fb</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5227-3"
+         y="138.71594"
+         x="260.46011"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68.08643341px;line-height:125%;font-family:'Libre Franklin';-inkscape-font-specification:'Libre Franklin, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="138.71594"
+           x="260.46011"
+           id="tspan5229-73"
+           sodipodi:role="line">Heart Rate Wristband</tspan></text>
+    </g>
+  </g>
+</svg>

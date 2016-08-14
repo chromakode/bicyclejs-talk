@@ -1,0 +1,367 @@
+@import '~reset.css';
+@import '~prismjs/themes/prism.css';
+
+@font-face {
+  font-family: 'Libre Franklin';
+  src: url('./res/LibreFranklin-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Libre Franklin';
+  src: url('./res/LibreFranklin-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Libre Franklin';
+  src: url('./res/LibreFranklin-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('./res/Inconsolata-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@aspect: 16 / 9;
+
+@darkgray: #535353;
+@blue: #2877cc;
+@darkblue: #1b518b;
+@red: #ff7a70;
+@darkred: #b22d22;
+@green: #d0dd7a;
+@darkgreen: #424d00;
+
+html {
+  font-size: 2vw;
+}
+
+body {
+  font-family: Libre Franklin;
+}
+
+html, body, #app {
+  width: 100%;
+  height: 100%;
+  background: #333;
+  cursor: none;
+}
+
+a, a:visited {
+  color: @blue;
+}
+
+#app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#slide {
+  position: relative;
+  width: 100vw;
+  max-width: @aspect * 100vh;
+  height: (1 / @aspect) * 100vw;
+  max-height: 100vh;
+  background: white url('../art/slide-bg.svg');
+  background-size: cover;
+  cursor: default;
+  overflow: hidden;
+
+  section {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    &.row {
+      flex-direction: row;
+    }
+
+    &.grid {
+      flex-wrap: wrap;
+    }
+  }
+
+  h1, h2 {
+    font-weight: bold;
+    margin: 1rem 0;
+
+    img {
+      vertical-align: middle;
+    }
+  }
+
+  h1 {
+    font-size: 3em;
+
+    &.title {
+      font-style: italic;
+    }
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h2.caption {
+    position: absolute;
+    display: inline-block;
+    top: 3vw;
+    right: 3vw;
+    padding: .5em 1em;
+    background: white;
+    box-shadow: 0 .1em .4em fade(black, 25%);
+    z-index: 10;
+  }
+
+  code {
+    display: block;
+    white-space: pre;
+    font-family: Inconsolata;
+    font-size: 1.15rem;
+
+    &.small {
+      font-size: .8rem;
+    }
+
+    &.large {
+      font-size: 1.5rem;
+    }
+  }
+
+  .credit {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: .1rem .2rem;
+    font-size: .5rem;
+    background: white;
+
+    &, a {
+      color: #777;
+    }
+  }
+
+  .fill {
+    height: 100%;
+    max-width: 100%;
+
+    &.full {
+      width: 100%;
+    }
+
+    &.cover {
+      position: absolute;
+      height: auto;
+      width: 100%;
+      background-color: white;
+    }
+  }
+
+  .console-slide {
+    align-items: stretch;
+
+    .console {
+      position: absolute;
+      bottom: 0;
+      padding: 2.5vw;
+      margin: 5vw;
+
+      code:not(:last-child) {
+        opacity: .55;
+      }
+
+      code.log {
+        opacity: 1;
+      }
+
+      code.run:before, code.result:before {
+        position: relative;
+        display: inline-block;
+        left: -1.5rem;
+        width: 0;
+        font-weight: bold;
+        font-size: .85em;
+        color: darkgrey;
+      }
+
+      code.run:before {
+        content: '>';
+      }
+
+      code.result:before {
+        content: '<';
+      }
+
+      code.run:last-child:before {
+        color: darkblue;
+      }
+    }
+
+    code {
+      display: block;
+      margin: .5em 0;
+
+      &.result, &.error {
+        margin-bottom: 1em;
+      }
+
+      &.error {
+        color: red;
+      }
+    }
+  }
+
+  .code-slide {
+    code {
+      width: 100%;
+      margin-left: 10vw;
+    }
+  }
+
+  .web-slide {
+    .url {
+      position: absolute;
+      left: 1rem;
+      bottom: 1rem;
+      background: white;
+      padding: .6rem .4rem;
+      box-shadow: 0 .1em .4em fade(black, 25%);
+      z-index: 10;
+    }
+  }
+
+  .bluetooth-slide {
+    .arrow {
+      font-size: 1.5rem;
+      margin: .5em 0;
+      opacity: .25;
+    }
+
+    .input code, .output code {
+      padding: .1em .2em;
+    }
+
+    .input code {
+      background: fade(blue, 15%);
+    }
+
+    .output code {
+      background: fade(darkorange, 15%);
+    }
+  }
+
+  .all-together-slide {
+    .line {
+      display: flex;
+      margin-bottom: 1rem;
+      align-items: center;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    .arrow {
+      margin: 0 .5rem;
+      font-size: 1rem;
+    }
+  }
+
+  .bicycle-js {
+    @import '~bicyclejs/src/main.less';
+    background: white;
+
+    &, .main-screen {
+      width: 100%;
+    }
+  }
+
+  .security-slide {
+    background: #ffffb4;
+  }
+
+  .device-tray {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 1rem;
+    padding-right: 0;
+    padding-bottom: 2vw;
+    display: flex;
+    flex-direction: column;
+    font-size: .6rem;
+    font-weight: bold;
+    opacity: .25;
+    transition: opacity .15s ease-out;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    .device-toggle {
+      background: white;
+      color: fade(black, 50%);
+      padding: .2rem .4rem;
+      margin: .1rem 0;
+      border: 2px solid fade(black, 50%);
+      border-right-width: 0;
+      border-top-left-radius: .25rem;
+      border-bottom-left-radius: .25rem;
+      cursor: pointer;
+      user-select: none;
+
+      &, .indicator {
+        transition: all .05s ease-out;
+      }
+
+      .indicator {
+        display: inline-block;
+        width: .35rem;
+        height: .35rem;
+        border-radius: 100% 100%;
+        border: 2px solid gray;
+        vertical-align: middle;
+        margin-right: .25rem;
+      }
+
+      .colored(@color) {
+        color: @color;
+        border-color: @color;
+
+        .indicator {
+          background: @color;
+          border-color: @color;
+          background-color: fade(@color, 50%);
+        }
+      }
+
+      &.connected {
+        .colored(green);
+      }
+
+      &.disconnected {
+        .colored(red);
+
+        .indicator {
+          background: none;
+        }
+      }
+
+      &.faked {
+        .colored(purple);
+      }
+    }
+  }
+}
